@@ -1,0 +1,1 @@
+# org-secret-scanner
